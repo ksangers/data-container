@@ -6,6 +6,9 @@
 
 namespace Mediact\DataContainer;
 
+/**
+ * @deprecated Will be removed in next major version.
+ */
 class DataContainerFilterChain implements DataContainerFilterInterface
 {
     /** @var DataContainerFilterInterface[] */

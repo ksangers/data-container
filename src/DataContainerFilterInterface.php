@@ -6,6 +6,9 @@
 
 namespace Mediact\DataContainer;
 
+/**
+ * @deprecated Will be removed in next major version.
+ */
 interface DataContainerFilterInterface
 {
     /**
